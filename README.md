@@ -1,3 +1,3 @@
 # bot-v2
  Complete overhaul of first bot.
-# DISCONTINUED
+# about to be continued...
